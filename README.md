@@ -10,7 +10,7 @@ This Terraform script sets up an AWS S3 bucket with secure configurations, appli
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/terraform-aws-s3-cloudfront.git
+    git clone https://github.com/aszpetmanski/cp_project.git
     cd terraform-aws-s3-cloudfront
     ```
 
